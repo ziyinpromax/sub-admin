@@ -1,8 +1,8 @@
 {
   "package": "com.parami.subadmin",
-  "versionCode": 3,
-  "versionName": "1.2",
+  "versionCode": 4,
+  "versionName": "1.3",
   "certSha256": "409c30223000403857a034a898448651240d5f703696b2a8dbab28167b019bf7",
-  "apkUrl": "https://github.com/ziyinpromax/sub-admin/releases/download/v1.2/SubAdmin.apk",
-  "apkSha256": "96640dda9a71de51455cf575f4af0861feb1e3e1eb38a3c9429cb682a348dd35"
+  "apkUrl": "https://github.com/ziyinpromax/sub-admin/releases/download/v1.3/SubAdmin.apk",
+  "apkSha256": "ea5d2f2ecf13aad1b0c041962b2ec75635493ba9fb571ec291d0bb45859b5064"
 }
